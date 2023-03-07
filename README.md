@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-- 🔭 I am currently working on Computer Vision and Pattern Recognition
+- 🔭 I am currently working on Image to Image translation
 - 🌱 I’m currently learning Deep Learning technique implementations in Computer Vision Tasks
 - 👯 I’m looking to collaborate on any ML research(NLP, Vision, Pr)
 - 💬 Ask me about anything, I am super interested to Network
