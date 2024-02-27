@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Deep Learning technique implementations in Computer Vision Tasks
 - 👯 I’m looking to collaborate on any ML research(NLP, Vision, Pr)
 - 💬 Ask me about anything, I am super interested to Network
-- 📫 How to reach me: mdshahedulislam@uon.edu.au
+- 📫 How to reach me: mdshahedulislam.khan@uon.edu.au
 - ⚡ Fun fact: Need to find one yet
 -->
 
