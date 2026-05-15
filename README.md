@@ -2,7 +2,6 @@
 
 - 🔭 Currently running **Phase 3** of my clinical NLP research — QLoRA fine-tuning of Llama 3.2, Mistral 7B, Phi-3 Mini and BioMistral on MIMIC-III clinical notes for bias detection and mitigation in healthcare AI
 - 🏫 **Casual Academic & Research Assistant** at the University of Newcastle — taught 900+ students across data engineering, databases, big data and ML courses
-- 📝 **Publications:** [arXiv:2404.00068](https://arxiv.org/abs/2404.00068) (cybersecurity threat analysis) · ICIC 2022 / Springer pp. 170–182 (Chinese text classification with contextualised weak supervision)
 - 🌱 Currently going deep on RAG architectures, LLM fine-tuning strategies (QLoRA / LoRA / PEFT), and fairness-aware post-processing for clinical AI
 - 👯 Open to collaborating on NLP, healthcare AI, BI analytics, and ML systems
 - 💬 Always happy to talk research, ML engineering, or anything data — reach out anytime
